@@ -74,9 +74,8 @@ const App: () => Node = () => {
             Edit <Text style={styles.highlight}>App.js</Text> to change this
             screen and then come back to see your edits.
           </Section>
-
           <Section title="My First React App">
-            <Text style={styles.highlight}>My First React App</Text>
+            <Text style={styles.highlight}>My First React App 뭘봐 =</Text>
           </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />
