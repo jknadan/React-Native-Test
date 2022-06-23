@@ -12,7 +12,6 @@ const Counter = () => {
       <Text style={{fontSize: 30, margin: 10}}>{count}</Text>
       {/* setCount(count + 1) ===> count = count + 1 */}
       <MyButton title="+1" onPress={() => setCount(count+1)}> </MyButton>
-      <MyButton title="-1" onPress={() => setCount(count-1)}> </MyButton>
     </View>
   );
 
